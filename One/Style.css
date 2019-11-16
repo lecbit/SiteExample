@@ -1,0 +1,224 @@
+.section
+{
+    font-family: sans-serif;
+    max-width: 1140px;
+    width: 96%;
+    margin: 0 auto;
+}
+
+#menu
+{
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#MLeft
+{
+    padding-bottom: 164px;
+    color: rgb( 149, 152, 154 );
+}
+
+#top
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#TLeft *
+{
+    margin-bottom: 30px;
+}
+
+#TLeft
+{
+    width: 50%;
+}
+
+#TRight img
+{
+    width: 100%;
+}
+
+
+
+#TLeft p
+{
+
+    font-size: 20px;
+
+    color: rgb( 50, 50, 95 );      
+}
+
+#TLeft h1, #price
+{
+    font-size: 48px;
+    color: rgb( 50, 50, 95 );
+}
+#price
+{
+    color: rgb( 82, 95, 127 );
+    line-height: 1.693cm;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.buttons
+{
+display: flex;
+}
+
+#Lbuttons
+{
+    margin-right: 20px;
+
+    color: white;
+    padding: 20px 30px;
+    border-radius: 6px;
+    box-shadow: black;
+    background-color: greenyellow;
+}
+
+#Rbuttons
+{
+    color: white;
+    padding: 20px 30px;
+    border-radius: 6px;
+    box-shadow: black;
+    background-color: gray;
+}
+
+body p
+{
+    font-size: 20px;
+    color: rgb( 50, 50, 95 );
+}
+
+body h1
+{
+    font-size: 48px;
+    color: rgb( 50, 50, 95 );
+}
+
+#CBlocks
+{
+    display: flex;
+}
+
+.block
+{
+    margin: 2.5px;
+}
+
+.block img
+{
+    padding: 100px 0px 10px 0px;
+}
+
+.block p
+{
+    font-size: 16px;
+}
+
+#photo
+{
+    padding: 75px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.Pblock
+{
+    margin: 10px 0px;
+}
+
+#footer-background
+{
+    background-color: #32325f;
+    font-family: sans-serif;
+}
+
+#footer
+{
+    max-width: 1140px;
+    margin: 0px auto;
+}
+
+#footer-in
+{
+    padding-top: 80px;
+    padding-bottom: 118px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#footer-in p, #footer-in h1
+{
+    color: white;
+}
+
+#footer-in h1
+{
+    font-size: 24px;
+}
+
+#footer-in p
+{
+    font-size: 16px;
+}
+
+.section-background1
+{
+    background-color: #f4f5f7;
+}
+
+.section-background3
+{
+    background-color: #f4f5f7;
+}
+
+.line
+{
+    width: 362px;
+}
+
+#text3
+{
+padding: 20px 0px;
+}
+
+#text3 p
+{
+    padding: 80px 0px 20px 0px;
+}
+
+.text2
+{
+    line-height: 20px;
+    padding: 10px 0px;
+}
+
+.line h1
+{
+    padding-bottom: 60px;
+}
+
+.line p
+{
+    padding: 5px 0px;
+}
+
+#center
+{
+    padding: 90px 0px;
+}
+
+#center p
+{
+    padding-bottom: 20px;
+}
